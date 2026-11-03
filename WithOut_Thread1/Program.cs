@@ -40,6 +40,7 @@ namespace ConsoleApp2
             obj.PrintCharacter();
 
             console.writeLine ("\ Final);
+                               console.writeLine ("\ Final);
 
         }
     }
