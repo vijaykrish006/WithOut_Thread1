@@ -1,5 +1,6 @@
 ﻿
-
+using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -38,7 +39,6 @@ namespace ConsoleApp2
             Console.WriteLine("\n Printing Character");
             obj.PrintCharacter();
 
-            Console.WriteLine("End of Main Function");
         }
     }
 }
