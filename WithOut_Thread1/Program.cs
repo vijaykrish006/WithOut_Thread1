@@ -39,6 +39,8 @@ namespace ConsoleApp2
             Console.WriteLine("\n Printing Character");
             obj.PrintCharacter();
 
+            console.writeLine ("\ Final);
+
         }
     }
 }
